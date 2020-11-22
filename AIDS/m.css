@@ -24,15 +24,7 @@ body{
   display:none;
 }
 
-.load{
-	z-index:1000;
-	background-color:white;
-	width:inherit;
-	height:100%;
-	position:absolute;
-	overflow:hidden;
-	text-align:center;
-}
+
 
 .p{
 	width:100%;
@@ -123,5 +115,6 @@ body{
 #page3{
 	background-color:GhostWhite;
 }
+
 
 
